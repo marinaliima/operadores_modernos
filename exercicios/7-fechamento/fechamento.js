@@ -1,0 +1,1 @@
+// O || substitui valores falsy (null, undefined, 0, "") por um valor padrão. Já o ?? só substitui valores null ou undefined.
